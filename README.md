@@ -1,99 +1,58 @@
-# Felipe Ortiz - Senior Frontend Engineer Portfolio 💻✨
+# Hi there, I'm Felipe Ortiz 👋
 
-> **A premium, high-performance, and fully responsive developer portfolio built with modern web technologies, pushing boundaries in UI/UX without relying on heavy UI frameworks.**
-
-![License](https://img.shields.io/badge/License-MIT-blue.svg)
-![Next.js](https://img.shields.io/badge/Next.js-15-black?logo=next.js)
-![React](https://img.shields.io/badge/React-19-blue?logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?logo=typescript)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-11-f04b81?logo=framer)
-
-## 🌟 Overview
-
-This is my personal portfolio demonstrating technical expertise in frontend architecture, performance optimization, and internationalized modern web design. Rather than relying on standard monolithic utility CSS frameworks (like Tailwind or Bootstrap), this application uses a meticulously crafted **Vanilla CSS Design System** powered by CSS variables to achieve scalable custom theming and intricate *glassmorphism* interactions.
-
-## ✨ Key Features
-
-- **🌓 Native Dark / Light Mode Engine:** Full CSS-variable-based theme toggling with instant local browser persistence (`localStorage`) and no hydration mismatch flickers.
-- **🌍 Built-in Internationalization (i18n):** English and Spanish text content served dynamically via a custom React Context provider (`LanguageContext`), allowing instant language switching without full page reloads.
-- **🪄 Micro-Animations & Interactivity:** Integrated with `framer-motion` to handle buttery smooth parallax, viewport-triggered scroll reveals, and responsive marquee sliders.
-- **⚡ Performant Architecture:** Leverages Next.js 15 App Router, strict TypeScript typing, and optimized font loading (via `next/font`). Highly optimized for excellent Core Web Vitals.
-- **💎 Glassmorphic UI:** Sophisticated UI utilizing background blurs, multi-layered colorful gradients, and refined shadows across timeline and project cards.
-- **⚙️ Dynamic Terminal Window:** A faux code-window component visually serving as a digital avatar.
-
-## 🛠 Tech Stack
-
-- **Framework:** [Next.js](https://nextjs.org/) (App Router)
-- **Library:** [React](https://react.dev/)
-- **Language:** [TypeScript](https://www.typescriptlang.org/)
-- **Styling:** Vanilla CSS3 + CSS Custom Properties & Variables
-- **Animations:** [Framer Motion](https://www.framer.com/motion/)
-- **Icons:** [Lucide React](https://lucide.dev/) & [React Icons](https://react-icons.github.io/react-icons/)
-- **Deployment & SEO:** Vercel (Recommended), Lighthouse auditing.
-
-## 🚀 Getting Started
-
-To run this project locally, execute the following commands in your terminal:
-
-```bash
-# 1. Clone the repository
-git clone https://github.com/yourusername/portafolio.git
-
-# 2. Navigate to the project directory
-cd portafolio
-
-# 3. Install dependencies
-npm install
-# or
-yarn install
-# or
-pnpm install
-
-# 4. Start the development server
-npm run dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result. The development server supports React Server Components and Fast Refresh.
-
-## 📁 Repository Structure
-
-```text
-src/
-├── app/
-│   ├── globals.css        # Core Design System, Theme Variables (Dark/Light)
-│   ├── layout.tsx         # Root layout configuring Context Providers and Fonts
-│   └── page.tsx           # Assembly of all portfolio UI sections
-├── components/            # Isolated view components (Hero, Navbar, Experience, etc.)
-│   ├── Contact.tsx
-│   ├── Experience.tsx     # Timelines (Tena, Saba, Megatiendas, etc)
-│   ├── Hero.tsx           # Floating code-window banner
-│   ├── Learning.tsx       # Studies and ongoing education 
-│   ├── Navbar.tsx         # Sticky navigation with theme & language UI toggles
-│   ├── Projects.tsx       # Hoverable glass-panel cards
-│   ├── TechStack.tsx      # Infinite horizontal logo marquee
-│   └── *.css              # Co-located component-specific styles
-└── context/
-    ├── LanguageContext.tsx # Centralized translation state and engine
-    └── ThemeContext.tsx    # Hook managing dark/light OS preference and toggle
-```
-
-## 📈 Recent Impact Highlights
-
-The projects featured here demonstrate a capacity to handle enterprise-level architecture, especially maintaining platforms like:
-- **Tena MX & Saba MX**
-- **Casaideas Colombia**
-- **Ortopédicos Futuro**
-- *and other top-tier VTEX IO e-commerce sites scaling to handle massive promotional events (Cyber Monday, Black Friday etc).*
-
-## 🤝 Let's Connect
-
-Currently open for new opportunities to build scalable and highly performant user interfaces. 
-Have a project, a question, or a role in mind? Let's talk!
-
-- [LinkedIn](#) - *(Update with your link)*
-- [GitHub](#) - *(Update with your link)*
-- **Email:** *(Update with your email)*
+<div align="center">
+  <h3>Senior Frontend Engineer | Web Performance | E-commerce Expert</h3>
+  <p>Crafting premium, highly-performant, and accessible digital experiences.</p>
+</div>
 
 ---
 
-*Designed and Built by Felipe Ortiz © 2026.*
+## 👨‍💻 About Me
+
+I am a **Senior Frontend Engineer** with a deep passion for UI/UX, modern web architectures, and crafting pixel-perfect interfaces. I specialize in the React ecosystem (Next.js, TypeScript) and enterprise-level e-commerce platforms like VTEX IO. My code focuses on delivering exceptional user experiences without relying heavily on bloated frameworks, optimizing **Core Web Vitals** to the maximum.
+
+- 🔭 **Currently focused on**: Advanced Web Performance, Next.js (SSR / Server Components) & Architecture.
+- 🌱 **Currently learning**: MuleSoft Anypoint Platform, n8n Workflow Automation, and English Proficiency (C1).
+- 💼 **Professional Impact**: Handled critical implementations for major international B2B and B2C enterprise platforms including **Tena, Saba, Casaideas, Megatiendas, and Softys**.
+- 💬 **Ask me about**: React, Next.js, Frontend Architecture, Custom CSS Design Systems (Glassmorphism), and VTEX IO.
+- 📫 **How to reach me**: [LinkedIn](https://linkedin.com/in/tu-perfil) | Correo: tu-correo@ejemplo.com
+- ⚡ **Fun fact**: I prefer building intricate, buttery-smooth animated interfaces from scratch rather than relying purely on off-the-shelf UI libraries!
+
+---
+
+## 🛠️ Tech Stack & Languages
+
+<div align="center">
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img alt="VTEX IO" src="https://img.shields.io/badge/VTEX-F71963?style=for-the-badge&logo=vtex&logoColor=white" />
+  <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+  <img alt="Framer Motion" src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</div>
+
+<br/>
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=radical&hide_border=true" alt="Felipe's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_DE_GITHUB&theme=radical&hide_border=true" alt="Felipe's GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <i>Visitors:</i> <br/>
+  <img src="https://profile-counter.glitch.me/TU_USUARIO_DE_GITHUB/count.svg" />
+</div>
+
+---
+
+⭐️ *Built to perform.*
