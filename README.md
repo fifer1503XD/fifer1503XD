@@ -15,7 +15,7 @@ I am a **Senior Frontend Engineer** with a deep passion for UI/UX, modern web ar
 - 🌱 **Currently learning**: MuleSoft Anypoint Platform, n8n Workflow Automation, and English Proficiency (C1).
 - 💼 **Professional Impact**: Handled critical implementations for major international B2B and B2C enterprise platforms including **Tena, Saba, Casaideas, Megatiendas, and Softys**.
 - 💬 **Ask me about**: React, Next.js, Frontend Architecture, Custom CSS Design Systems (Glassmorphism), and VTEX IO.
-- 📫 **How to reach me**: [LinkedIn](https://linkedin.com/in/tu-perfil) | Correo: tu-correo@ejemplo.com
+- 📫 **How to reach me**: [LinkedIn](https://www.linkedin.com/in/felipe-ortiz-bejarano-68a2ba137/) | Correo: [desarrolladorwebfelipeortiz@gmail.com]
 - ⚡ **Fun fact**: I prefer building intricate, buttery-smooth animated interfaces from scratch rather than relying purely on off-the-shelf UI libraries!
 
 ---
@@ -39,20 +39,7 @@ I am a **Senior Frontend Engineer** with a deep passion for UI/UX, modern web ar
 
 <br/>
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=radical&hide_border=true" alt="Felipe's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_DE_GITHUB&theme=radical&hide_border=true" alt="Felipe's GitHub Streak" />
-</div>
-
-<br/>
-
-<div align="center">
-  <i>Visitors:</i> <br/>
-  <img src="https://profile-counter.glitch.me/TU_USUARIO_DE_GITHUB/count.svg" />
-</div>
 
 ---
 
-⭐️ *Built to perform.*
+⭐️ **Built to perform.**
