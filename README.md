@@ -16,6 +16,7 @@ My philosophy? **Maximum performance, minimum bloat.** I focus on optimizing **C
 - 🔭 **Current Focus**: Advanced Web Performance, Next.js Server Components (RSC) & Headless E-commerce.
 - 🌱 **Learning Path**: Mastering **MuleSoft Anypoint** & **n8n** for seamless business automation, and scaling my English to **C1 Proficiency**.
 - 💼 **Professional Impact**: Implemented and provided technical support for international B2C and B2B platforms for major clients (Tena, Saba, Casaideas, Softys, and Megatiendas), focusing on platform stability and business growth.
+- 🏆 **Certifications**: **VTEX IO Developer Certification** by **EICOM Institute**.
 
 
 ---
@@ -34,7 +35,8 @@ My philosophy? **Maximum performance, minimum bloat.** I focus on optimizing **C
 ### State Management & Backend
 <div align="left">
   <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-  <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
 </div>
 
 ### Basic Web Technologies
@@ -61,7 +63,6 @@ My philosophy? **Maximum performance, minimum bloat.** I focus on optimizing **C
 
 ## 📊 GitHub Stats
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fifer1503XD&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fifer1503XD&layout=compact&theme=radical"/>
 </p>
 
